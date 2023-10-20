@@ -1,0 +1,53 @@
+
+  body{
+    background-color: red;
+    max-width: 1240px;
+  }
+  .main{
+    background-color: white;
+    width:40%;
+    height: 650px;
+    margin-top: 50px;
+    margin-left: 400px;
+  }
+  .navbar
+  {
+    list-style-type: none;
+    background-color: black;
+    float: center;
+    padding: 0;
+    max-width: 800px;
+    margin: 20px;
+  }
+  li{
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 14px ;
+    text-decoration: none;
+    margin-left: 30px;
+  }
+.heading{
+
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  font-size: 70px;
+  height: 10px;
+  max-width: 800px;
+  padding: 30px;
+  padding-top: 10px;
+  margin: 0 auto;
+
+
+}
+  .text{
+    font-weight: bold;
+    margin:5px;
+    text-align: justify;
+    padding: 20px;
+    padding-top: 20px;
+
+  }
+  .work{
+    padding: 10px;
+  }
